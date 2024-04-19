@@ -1,4 +1,4 @@
-# DataVisualization
+# Data Visualization
 
 Data Visualization brings initial Analysis to life! Visualizaions are key to understand trends in Data. 
 
