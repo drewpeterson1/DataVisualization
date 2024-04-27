@@ -15,4 +15,4 @@ Data Visualization
 - MultiVariate
   - Barcharts (Stacked & Side-by-Side)
   - Scatterplot (Categories ColorCoded)
-- Libraries: MatPlotLib, Seaborn, Tableau 
+- Libraries: MatPlotLib, Seaborn, Tableau
